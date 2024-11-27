@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Madhav
 - 👀 I’m interested in RTL design, VLSI, Analog IC design, PCB design and much nore 
 - 🌱 I’m currently learning RTL design, VLSI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects of my interested fields.
 - 📫 How to reach me madhavgautam2005@gmail.com
 
 <!---
